@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(to left, #b81515, #0b0b00cc);
+}
+  .phototitle {
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+
+  .photoImage {
+    height: 10rem;
+    width: 15rem
+  }
+
+
+  .photoCaptions {
+    text-align: center;
+    width: 15rem;
+    
+  }
+
+  .photocards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  .photoContainers {
+    padding: 5px;
+    background-color: deepskyblue;
+    margin: 5px;
+  }
