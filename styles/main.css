@@ -29,3 +29,9 @@ body {
     background-color: deepskyblue;
     margin: 5px;
   }
+
+  .jsContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
