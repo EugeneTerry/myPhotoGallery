@@ -15,6 +15,8 @@ body {
   .photoCaptions {
     text-align: center;
     width: 15rem;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
     
   }
 
@@ -34,4 +36,12 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+  }
+
+  .collapse-navbar-collapse{
+    display: flex;
+  }
+  .navbar-item {
+    display: flex;
+    margin-left: 2rem;
   }
