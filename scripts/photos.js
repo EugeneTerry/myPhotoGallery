@@ -36,7 +36,7 @@ export const photoContent = () => {
       </article>
     </section>
 
-  `
+  `;
 
-  return html
-}
+  return html;
+};
